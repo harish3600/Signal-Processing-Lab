@@ -1,0 +1,14 @@
+L = 4;
+N = 64;
+x = [ones(L,1);zeros(N-L,1)];
+n = 0:1:N-1;
+X1 = fft(x);
+subplot(2,1,1);
+plot(n,abs(X1));
+xlabel('k'); ylabel('|X(k)|');
+title('DFT using inbuilt func fft');
+X2 = radix2fft(x);
+subplot(2,1,2);
+plot(n,abs(X2));
+xlabel('k'); ylabel('|X(k)|');
+title('DFT using radix2fft');
