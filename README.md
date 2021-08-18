@@ -23,7 +23,7 @@ MATLAB Implementation of concepts taught in Signal Processing Course.
 9. Lab 9 - Digital Filter Design
 
 <!--ts-->
-   * [Lab 1 - Fourier Series](#Lab1)
+   * [Lab 1 - Fourier Series](#main/Lab1)
    * [Usage](#usage)
    * [Tests](#tests)
    * [Dependency](#dependency)
