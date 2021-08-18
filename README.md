@@ -2,7 +2,7 @@
 
 MATLAB Implementation of concepts taught in Signal Processing Course.
 
-Contents
+## Table of Contents
 
 1. Lab 1 - Fourier Series
 
@@ -22,5 +22,16 @@ Contents
 
 9. Lab 9 - Digital Filter Design
 
-   
+<!--ts-->
+   * [Lab 1 - Fourier Series](#Lab1)
+   * [Usage](#usage)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Docker](#docker)
+ 
+<!--te-->
+
+## Contributors
+- Harish Umasankar
+- Sri Anvith Dosapati
 
